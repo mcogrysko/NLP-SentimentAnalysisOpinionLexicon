@@ -9,3 +9,5 @@ Processing the IMDB movie reviews for sentiment analysis with opinion lexicon
 - First 1000 words in Tf-Idf features and compute 10-fold CV classification evaluation performance
 - First 1000 TFIDF features with counts of positive and negative opinions
 - Compare ranked features
+
+<i><a href="https://mcogrysko.github.io">Back to Mike Ogrysko's portfolio</a></i>
